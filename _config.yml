@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "finimage"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : <"https://solved.ac/profile/finimage">
+  bio              : "https://solved.ac/profile/finimage"
   location         : "Seoul"
   email            :
   links:
