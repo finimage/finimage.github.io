@@ -1,4 +1,0 @@
----
-permalink: /BOJ/
-title: "BOJ"
----
