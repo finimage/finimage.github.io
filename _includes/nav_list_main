@@ -21,6 +21,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Study</span>
       </li>
   </ul>
 </nav>
