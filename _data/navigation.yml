@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "BOJ"
-    url: "/BOJ/"
+    url: "categories/BOJ/"
   - title: "AtCoder"
-    url: "/AtCoder/"
+    url: "categories/AtCoder/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
