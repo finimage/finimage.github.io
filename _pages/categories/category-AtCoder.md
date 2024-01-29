@@ -1,11 +1,11 @@
 ---
-title: "BOJ"
+title: "AtCoder"
 layout: archive
-permalink: categories/BOJ
+permalink: categories/AtCoder
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.BOJ %}
+{% assign posts = site.categories.AtCoder %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
