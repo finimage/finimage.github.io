@@ -2,6 +2,8 @@
 main:
   - title: "BOJ"
     url: "/BOJ/"
+  - title: "AtCoder"
+    url: "/AtCoder/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
