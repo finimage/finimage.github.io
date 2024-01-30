@@ -21,7 +21,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">이거 왜 안 됨</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "AtCoder" %}
