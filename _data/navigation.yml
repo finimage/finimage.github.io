@@ -4,6 +4,8 @@ main:
     url: "categories/#boj/"
   - title: "AtCoder"
     url: "categories/#atcoder/"
+  - title: "Contest"
+    url: "categories/#contest/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
